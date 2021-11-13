@@ -1,0 +1,57 @@
+#+TITLE: Week 4
+#+DATE: <2021-11-13 Sat>
+#+STARTUP: overview
+* Mentor Sentence
+** Sentence
+I think the world is a series of broken dams and floods, and my cartoons are tiny, little lifeboats.
+** Monday Musings
+1. sad tone
+2. thinks highly of his cartoons
+** Teacher Tuesday
+*** Word Types
+- Adjective
+  * broken
+  * tiny
+  * little
+- Conjunction
+  * and
+  * and
+- Determiner
+  * the
+  * a
+- Noun
+  * world
+  * series
+  * dams
+  * floods
+  * cartoons
+  * lifeboats
+- Preposition
+  * of
+- Pronoun
+  * I
+  * my
+- Verb
+  * think
+  * is
+  * are
+*** Notes
+- speech is done with ""
+- should is a verb
+- or is a conjunction
+** Work on it Wednesday
+-
+** Thinking Thursday
+-
+* Grammer
+** Verb Moods
+*** Indicative Mood Verb
++ Simply states a fact or describes what happens
+*** Imperative Mood Verb
++ Indicates a state or command
+*** Interrogative Mood Verb
++ Indicates a state of questioning
+*** Conditional Mood Verb
++ Indicates a condition state that will cause something to happen
+*** Subjunctive Mood Verb
++ Indicates a hypothetical state, wish, desire, or imaginary situation

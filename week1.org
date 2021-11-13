@@ -1,0 +1,100 @@
+#+TITLE: Week 1
+#+DATE: <2021-11-12 Fri>
+#+STARTUP: overview
+* Mentor Sentence
+** Sentence
+I never had a brain until Freak came along and let me borrow his for a while, and that’s the truth, the whole truth.
+** Monday Musings
+1. The Character is nonhuman
+2. Seems to be confessing or explaining something
+** Teacher Tuesday
+*** Word Types
+- Nouns:
+  * brain
+  * truth
+- Pronoun:
+  * I
+  * me
+  * his
+  * that's
+- Adjective:
+  * whole
+- Adverb:
+  * never
+  * along
+  * while
+- Helping verb:
+  * had
+- Article:
+  * a X2
+  * the X2
+- Initiating Verb: that's
+- Sub conjunction:
+  * and X2
+  * for
+*** Notes
+- Use a comma on a clause
+- Hyperbole = a Real big exaggeration
+** Work on it Wednesday
+- I didn't a brain until Freak came along and let me use his for a while, and that’s the truth.
+** Thinking Thursday
+- Until Freak came along and let me use his brain I was as dumb as a fish
+* Grammer
+** Parts Of Speech
+*** Verbs
+- The Action of a sentence EX:
+  * sleep
+  * sing
+  * type
+*** Noun
+- Person, Place, Thing or Idea EX:
+  * car
+  * song
+  * hell(What I'm in *now*)
+*** Adjective
+- Describes a noun EX:
+  * Good, Large, interesting
+*** Pronoun
+- Replaces a noun
+*** Conjunction
+- Connects sentences
+*** Prepositions
+- Links a noun to another word
+*** Interjections
+- Your the contradictinator 5000 you know this *Jake*
+** Types of Sentences
+*** A dependent clause (or subordinate clause) is a clause that cannot stand alone as a complete sentence because it does not express a complete thought.
+*** Clause that can stand on its own
+** Hyperbole and friends
+*** Hyperbole
+- A exaggeration in the style of:
+  * I could eat a horse
+*** Personification
+- Adding human qualities to non human objects
+*** Simile
+- Likens one thing to another
+*** Metaphor
+- Saying something is something that it literally isn't
+*** Allusion
+- An indirect reference to something
+*** Idiom
+- A commonly used expression that doesn't relate to what it means
+*** Alliteration
+- words that start with the same sound in a sequence
+*** Irony
+- Like sarcasm but with events like a fire station burning down
+** Types of Phrases
+*** Absolute Phrases
+- An /absolute phrase/ combines a noun and a participle. Modifiers and/or objects may be present to complete the thought.
+*** Appositive Phrases
+- An /appositive phrase/ is a noun, noun phrase, or series of nouns that renames the noun next to it.
+*** Gerund Phrase
+- A /gerund phrase/ is a phrase consisting of a gerund and any modifiers or objects associated with it.
+*** Infinitive Phrase
+- An /infinitive phrase/ is the infinitive form of a verb plus any complements and modifiers.
+*** Noun Phrase
+- a /word or group of words/ that functions in a sentence as subject, object, or prepositional object.
+*** Participle Phrase
+- A /participle phrase/ is a group of words containing a participle, modifier, and pronoun or noun phrases.
+*** Prepositional Phrase
+- a /modifying phrase/ consisting of a preposition and its object.

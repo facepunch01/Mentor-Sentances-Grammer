@@ -1,0 +1,81 @@
+#+TITLE: Week 2
+#+DATE: <2021-11-13 Sat>
+#+STARTUP: overview
+* Mentor Sentence
+** Sentence
+He was glad for one thing: the rope was off
+his neck. That had given them an unfair
+advantage; but now that it was off, he
+would show them.
+** Monday Musings
+1. Main character is in some sort of danger
+2. He is glad
+3. They use : and ;
+** Teacher Tuesday
+*** Word Types
+- Adjective
+  * glad
+  * unfair
+- Adverb
+  * now
+  * off
+- Conjunction
+  * but
+- Determiner
+  * the
+  * That
+  * an
+- Noun
+  * thing
+  * neck
+  * advantage
+- Number
+  * one
+- Preposition
+  * for
+  * off
+  * that
+- Pronoun
+  * He
+  * his
+  * them
+  * it
+  * he
+  * them
+- Verb
+  * was
+  * was
+  * had
+  * given
+  * was
+  * would
+  * show
+*** Notes
+- : can define nondescript things
+- ; can end clauses while continuing the sentence
+** Work on it Wednesday
+- He was happy about one thing: the rope was off his neck. That had given them an unfair edge; but now that it was off, it was time for some fun.
+** Thinking Thursday
+- As the rope came off his neck he smiled slyly.
+* Grammer
+** Colon and Semi-colon
+*** Colon:
+- A colon is a punctuation mark used to introduce lists, quotes, or further explanation. It is also used to separate items in non-grammatical structures.
+*** Semicolon
+- a punctuation mark (;) indicating a pause, typically between two main clauses, that is more pronounced than that indicated by a comma.
+
+** Pronouns
+*** Possessive Pronouns
+  * a pronoun indicating possession, for example mine, yours, hers, theirs.
+*** Reflexive Pronouns
+- Reflexive pronouns are words ending in -self or -selves that are used when the subject and the object of a sentence are the same (e.g., I believe in myself).
+*** Relative Pronouns
+- A relative pronoun is a word that introduces a dependent (or relative) clause and connects it to an independent clause.
+*** Reciprocal Pronouns
+- A reciprocal pronoun is a pronoun which is used to indicate that two or more people are carrying out or have carried out an action of some type, with both receiving the benefits or consequences of that action simultaneously.
+*** Demonstrative Pronouns
+- A demonstrative pronoun is a pronoun that is used to point to something specific within a sentence. These pronouns can indicate items in space or time, and they can be either singular or plural.
+*** Interrogative Pronouns
+- An interrogative pronoun is a pronoun used to ask a question.
+*** Indefinite Pronouns
+- a pronoun that does not refer to any person, amount, or thing in particular, e.g. anything, something, anyone, everyone.

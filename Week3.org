@@ -1,0 +1,60 @@
+#+TITLE: Week 3
+#+DATE: <2021-11-13 Sat>
+#+STARTUP: overview
+* Mentor Sentence
+** Sentence
+“You should wake me,” I say, thinking about how I can interrupt his sleep two or three times on a bad night.
+** Monday Musings
+1. it is mostly internal dialog
+2. there is talking
+3. from first person
+** Teacher Tuesday
+*** Word Types
+- Adjective
+  * bad
+- Adverb
+  * how
+- Conjunction
+  * or
+- Determiner
+  * a
+- Noun
+  * sleep
+  * times
+  * night
+- Number
+  * two
+  * three
+- Preposition
+  * about
+  * on
+- Pronoun
+  * You
+  * Me
+  * I
+  * I
+  * his
+- Verb
+  * should
+  * wake
+  * say
+  * thinking
+  * can
+  * interrupt
+*** Notes
+- speech is done with ""
+- should is a verb
+- or is a conjunction
+** Work on it Wednesday
+- “You should wake me,” I say pretending to be uncaring, thinking about how I can break up his sleep two or three times on a terrible night.
+** Thinking Thursday
+- "Wake me up" I said, while thinking about how i'm going to annoy him more.
+* Grammer
+** Conjunction's
+*** Subordinating Conjunction's
+- a conjunction that introduces a subordinate clause, e.g., although, because.
+*** Coordinating Conjunction's
+- a conjunction placed between words, phrases, clauses, or sentences of equal rank, e.g. and, but, or.
+** Quotation mark rules
+*** TODO Get a proper paper
+SCHEDULED: <2021-11-15 Mon>

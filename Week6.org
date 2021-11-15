@@ -1,0 +1,58 @@
+#+TITLE: Week 6
+#+DATE: <2021-11-13 Sat>
+#+STARTUP: overview
+* Mentor Sentence
+** Sentence
+But it is the nature of stars to cross, and never was Shakespeare more wrong than when he has Cassius note, “The fault, dear Brutus, is not in our stars / But in ourselves.”
+** Monday Musings
+1.
+** Teacher Tuesday
+*** Word Types
+- Adjective
+  * wrong
+- Adverb
+  * never
+  * more
+  * when
+  * dear
+  * not
+- Conjunction
+  * But
+  * and
+  * But
+- Determiner
+  * the
+  * The
+- Noun
+  * nature
+  * stars
+  * Shakespeare
+  * Cassius
+  * note
+  * fault
+  * Brutus
+  * stars
+- Preposition
+  * of
+  * than
+  * in
+  * in
+- Pronoun
+  * it
+  * he
+  * ourselves
+- Verb
+  * is
+  * cross
+  * was
+  * has
+  * is
+*** Notes
+- That's a long one
+** Work on it Wednesday
+-
+** Thinking Thursday
+-
+* Grammer
+** TODO Find out what goes here
+SCHEDULED: <2021-11-15 Mon>

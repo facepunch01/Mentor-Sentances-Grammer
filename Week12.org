@@ -1,0 +1,48 @@
+#+TITLE: Week 12
+#+DATE: <2021-12-11 Sat>
+#+STARTUP: overview
+* Mentor Sentence
+Four flips the gun in this hand, presses the barrel to Peter's forehead, and clicks a bullet into place.
+** Monday Musings
+1) that's very dangerous and dumb
+2) three actions or verbs
+3) but only one main noun
+** Teacher Tuesday
+*** Parts of speech
++ Conjunction
+  1. and
++ Determiner
+  1. the
+  2. the
+  3. a
++ Noun
+  1. Four
+  2. gun
+  3. hand
+  4. barrel
+  5. Peter's
+  6. forehead
+  7. bullet
+  8. place
++ Preposition
+  1. in
+  2. to
+  3. into
++ Verb
+  1. flips
+  2. presses
+  3. clicks
+** Work on it Wednesday
+*** Four flips the gun in his hand, presses the barrel to Peter's forehead, then clicks a bullet into place.
+** Thinking Thursday
+*** Four places the gun in his left hand, then he presses the barrel against Peter's left temple, a click is heard as the two lock eyes.
+* Grammar
+** punctuating nonrestrictive elements
+*** Rule #1
++ Nonrestrictive elements add extra information to sentences
+*** Rule #2
++ your can remove a nonrestrictive element from a sentence and see that the sentence still makes sense.
+*** Rule #3
++ Nonrestrictive elements can be separated from the rest of the sentence by comas, parentheses, or dashes.
+*** Rule #4
++ If a nonrestrictive element "interrupts" a sentence, the Same punctuation must be used before and after the element to separate it from the, remaining parts of the sentence.

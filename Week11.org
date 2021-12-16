@@ -1,0 +1,18 @@
+#+TITLE: Week 11
+* Mentor Sentances
+**
+* Grammer
+** Objects
+*** Direct Object
+- Recipriant of a action of a transative verb
+*** Indirect Object
+- Identifies who the direct object is at
+*** Object of the preposition
+- Preposition phrases start wih a preposition and end with the object of the preposition
+** Pronouns
+*** Possessive pronouns
+- A pronoun that shows possession/ who owns something
+*** Subective pronouns
+- Acts on the subject of a sentance and/or preforms the action of the verb
+*** Objective pronouns
+- Acts on the object of the verb and/or recives the action of the verb

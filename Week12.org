@@ -9,13 +9,13 @@ Four flips the gun in this hand, presses the barrel to Peter's forehead, and cli
 3) but only one main noun
 ** Teacher Tuesday
 *** Parts of speech
-+ Conjunction
+- Conjunction
   1. and
-+ Determiner
+- Determiner
   1. the
   2. the
   3. a
-+ Noun
+- Noun
   1. Four
   2. gun
   3. hand
@@ -24,11 +24,11 @@ Four flips the gun in this hand, presses the barrel to Peter's forehead, and cli
   6. forehead
   7. bullet
   8. place
-+ Preposition
+- Preposition
   1. in
   2. to
   3. into
-+ Verb
+- Verb
   1. flips
   2. presses
   3. clicks

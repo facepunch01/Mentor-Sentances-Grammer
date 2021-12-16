@@ -1,0 +1,34 @@
+#+TITLE: Week 13
+#+DATE: <2021-12-15 Wed>
+#+STARTUP: overview
+#+STARTUP: inlineimages
+* Grammar
+** Author
+*** Author styles
+Style in literature is the literary element that describes the way that the am thor uses Words (word choice, figurative language, sentence structure, etc.)
+*** Author tone
+The attitude the writer takes towards the subject. Allows the entire piece of writing to align with it audience amd purpose.
+*** Images
+[[./Author styles.png]]
+[[./Tone Words.png]]
+** Adjectives
+*** Comparative adjectives
+- Used to compare two things
+*** Superlative adjectives
+- Used to compare three or more things
+*** Table
+| Adjective   | Comparative      | Superlative      |
+|-------------+------------------+------------------|
+| Skinny      | Skinnier         | Skinniest        |
+| High        | Higher           | Highest          |
+| Old         | Older            | Oldest           |
+| Young       | Younger          | Youngest         |
+| Tangled     | More tangled     | Most Tangled     |
+| Tilted      | More Tilted      | Most Tilted      |
+| Good        | Better           | Best             |
+| Interesting | More interesting | Most interesting |
+| Fancy       | Fancier          | Fanciest         |
+| Cheerful    | More cheerful    | Most cheerful    |
+| Bright      | Brighter         | Brightest        |
+| Dark        | Darker           | Darkest          |
+| Gross       | More gross       | Most gross       |
